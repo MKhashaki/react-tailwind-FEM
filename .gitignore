@@ -148,3 +148,6 @@ node_modules
 psd
 thumb
 sketch
+
+# pnpm lock file
+pnpm-lock.yaml
